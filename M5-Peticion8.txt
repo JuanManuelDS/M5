@@ -1,0 +1,230 @@
+Petición:
+https://restcountries.com/v3.1/capital/Beijing
+
+Respuesta:
+[
+    {
+        "name": {
+            "common": "China",
+            "official": "People's Republic of China",
+            "nativeName": {
+                "zho": {
+                    "official": "中华人民共和国",
+                    "common": "中国"
+                }
+            }
+        },
+        "tld": [
+            ".cn",
+            ".中国",
+            ".中國",
+            ".公司",
+            ".网络"
+        ],
+        "cca2": "CN",
+        "ccn3": "156",
+        "cca3": "CHN",
+        "cioc": "CHN",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "¥"
+            }
+        },
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "6"
+            ]
+        },
+        "capital": [
+            "Beijing"
+        ],
+        "altSpellings": [
+            "CN",
+            "Zhōngguó",
+            "Zhongguo",
+            "Zhonghua",
+            "People's Republic of China",
+            "中华人民共和国",
+            "Zhōnghuá Rénmín Gònghéguó"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "languages": {
+            "zho": "Chinese"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية الصين الشعبية",
+                "common": "الصين"
+            },
+            "bre": {
+                "official": "Republik Pobl Sina",
+                "common": "Sina"
+            },
+            "ces": {
+                "official": "Čínská lidová republika",
+                "common": "Čína"
+            },
+            "cym": {
+                "official": "Gweriniaeth Pobl Tsieina",
+                "common": "Tsieina"
+            },
+            "deu": {
+                "official": "Volksrepublik China",
+                "common": "China"
+            },
+            "est": {
+                "official": "Hiina Rahvavabariik",
+                "common": "Hiina"
+            },
+            "fin": {
+                "official": "Kiinan kansantasavalta",
+                "common": "Kiina"
+            },
+            "fra": {
+                "official": "République populaire de Chine",
+                "common": "Chine"
+            },
+            "hrv": {
+                "official": "Narodna Republika Kina",
+                "common": "Kina"
+            },
+            "hun": {
+                "official": "Kínai Népköztársaság",
+                "common": "Kína"
+            },
+            "ita": {
+                "official": "Repubblica popolare cinese",
+                "common": "Cina"
+            },
+            "jpn": {
+                "official": "中華人民共和国",
+                "common": "中国"
+            },
+            "kor": {
+                "official": "중화인민공화국",
+                "common": "중국"
+            },
+            "nld": {
+                "official": "Volksrepubliek China",
+                "common": "China"
+            },
+            "per": {
+                "official": "جمهوری خلق چین",
+                "common": "چین"
+            },
+            "pol": {
+                "official": "Chińska Republika Ludowa",
+                "common": "Chiny"
+            },
+            "por": {
+                "official": "República Popular da China",
+                "common": "China"
+            },
+            "rus": {
+                "official": "Народная Республика Китай",
+                "common": "Китай"
+            },
+            "slk": {
+                "official": "Čínska ľudová republika",
+                "common": "Čína"
+            },
+            "spa": {
+                "official": "República Popular de China",
+                "common": "China"
+            },
+            "swe": {
+                "official": "Folkrepubliken Kina",
+                "common": "Kina"
+            },
+            "tur": {
+                "official": "Çin Halk Cumhuriyeti",
+                "common": "Çin"
+            },
+            "urd": {
+                "official": "عوامی جمہوریہ چین",
+                "common": "چین"
+            }
+        },
+        "latlng": [
+            35.0,
+            105.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "NPL",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "area": 9706961.0,
+        "demonyms": {
+            "eng": {
+                "f": "Chinese",
+                "m": "Chinese"
+            },
+            "fra": {
+                "f": "Chinoise",
+                "m": "Chinois"
+            }
+        },
+        "flag": "🇨🇳",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/270056"
+        },
+        "population": 1402112000,
+        "gini": {
+            "2016": 38.5
+        },
+        "fifa": "CHN",
+        "car": {
+            "signs": [
+                "RC"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/cn.png",
+            "svg": "https://flagcdn.com/cn.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/cn.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/cn.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                39.92,
+                116.38
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    }
+]
